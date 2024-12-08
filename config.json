@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": ".",
-    "mongodbUri": "mongodb+srv://Gizzard:0LS9FGyvPFz8nxWO@gizzard.1bg1w.mongodb.net/?retryWrites=true&w=majority&appName=Gizzard",
+    "mongodbUri": "mongodb+srv://Gizzard:o6V4A6yDC91xeGJb@gizzard.1bg1w.mongodb.net/?retryWrites=true&w=majority&appName=Gizzard",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
