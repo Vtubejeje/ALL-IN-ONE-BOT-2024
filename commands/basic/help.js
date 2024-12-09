@@ -237,7 +237,7 @@ module.exports = {
             
                 const totalCommands = totalCommandFiles + totalExcessCommandFiles;
                 pages.push({
-                    title: 'Bot Info <:user:1315671228257927248>',
+                    title: 'Bot Info ',
                     description: `Hello fellow user! Here is the new AIO ( all in one ) Discord bot. which have dozens of commands to discover the best side of your server, checkout yourself!`,
                     commands: [
                         `<:fix:1314967630536380528> Gizzard Developer:** Vtube.satoru\n`+
