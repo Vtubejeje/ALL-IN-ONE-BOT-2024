@@ -245,7 +245,7 @@ module.exports = {
                         `**Total Servers:** ${totalServers}\n`+
                         `**Total Members:** ${totalMembers}\n`+
                         `**Bot Uptime:** ${uptimeHours}h ${uptimeMinutes}m ${uptimeSeconds}s\n`+
-                        `**Total Commands:** ${totalCommands}\n`+,
+                        `**Total Commands:** ${totalCommands}\n`,
                     ],
                     image: "https://cdn.discordapp.com/attachments/1314967275530485763/1315669911032561674/how-to-make-a-discord-bot.png?ex=67584096&is=6756ef16&hm=2f039fcd413b92d78e8c9244ded443c2327beaff8cc01b75d5a83effb1855bdd&",
                     color: "#3498db",
